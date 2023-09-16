@@ -159,7 +159,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Language Contributor - Aya Open Science Initiative",
+      role: "Language Contributor and Data Scientist",
       company: "Cohere for AI · Freelance",
       companylogo: require("./assets/images/AyaLogo.png"),
       date: "Jul 2023 - Present (3 mos)",
@@ -176,7 +176,7 @@ const workExperiences = {
       skills: "Machine Learning · Natural Language Processing (NLP) · Data Science · Data Visualization"
     },
     {
-      role: "Ivy Contributor",
+      role: "Ivy Contributor and Data Scientist",
       company: "Ivy · Freelance",
       companylogo: require("./assets/images/ivylogo.png"),
       date: "Sep 2022 - Jun 2023 (10 mos)",
