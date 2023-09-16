@@ -332,8 +332,8 @@ const contactInfo = {
   title: emoji("Contact Me 📱"),
   subtitle:
     "Feel free to reach out for project collaborations or to initiate a conversation. My inbox is open for any inquiries or greetings.",
-  number: "+351 938 074 508",
-  number: "+44 73953 86740",
+  number_PT: "+351 938 074 508",
+  number_UK: "+44 73953 86740",
   email_address: "maria.o.fitas@gmail.com"
 };
 
