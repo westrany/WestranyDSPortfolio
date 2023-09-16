@@ -329,11 +329,12 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contact Me 📱"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+    "Feel free to reach out for project collaborations or to initiate a conversation. My inbox is open for any inquiries or greetings.",
+  number: "+351 938 074 508",
+  number: "+44 73953 86740",
+  email_address: "maria.o.fitas@gmail.com"
 };
 
 // Twitter Section
