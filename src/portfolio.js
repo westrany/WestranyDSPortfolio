@@ -114,23 +114,16 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "University of Stirling",
+      logo: require("./assets/images/StirlingLogo.png"),
+      subHeader: "Bachelor of Science in Data Science",
+      duration: "September 2020 - June 2023",
+      desc: "Enrolled in a diverse data science program, developed a cross-country tree species model, and begun my passion project on mitigating biases in face detection with transformer algorithms.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Completed comprehensive coursework in: Machine Learning, Big Data Analytics, and Natural Language Processing",
+        "Demonstrated commitment to interdisciplinary learning and data science research",
+        "Developed skills in NLP, Deep Learning, Computer Vision, SQL, Python, Javascript, Java, Jupyter, and Artificial Intelligence (AI)"
       ]
-    },
-    {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
 };
@@ -141,19 +134,19 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Data Science and Machine Learning", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Natural Language Processing (NLP) and AI",
       progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
+      Stack: "Software Development and Technology Tools",
       progressPercentage: "60%"
     }
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -162,29 +155,52 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Language Contributor - Aya Open Science Initiative",
+      company: "Cohere for AI · Freelance",
+      companylogo: require("./assets/images/AyaLogo.png"),
+      date: "Jul 2023 - Present (3 mos)",
+      desc: "Enriched the Aya Open Science Initiative as a language expert and native speaker proficient in both Portuguese (PT-PT) and English. Collaborated on a pioneering research project dedicated to propelling multilingual AI advancement through open science collaboration.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      "Worked closely with the Aya community to collect, curate, and annotate multilingual text examples, thereby bolstering the performance of multilingual AI models.",
+      "Conducted comprehensive assessments and evaluations of NLP models for Portuguese (PT-PT) and English, offering invaluable insights through data visualization to enhance their accuracy and effectiveness.",
+      "Actively engaged in open science dialogues, fostering the exchange of knowledge, innovative ideas, and best practices to accelerate progress in multilingual AI.",
+      "Dived into continuous research and experimentation, exploring novel approaches to advance NLP techniques for both Portuguese (PT-PT) and English.",
+      "Evaluated NLP models for Portuguese (PT-PT) and English, offering insights that improved their accuracy.",
+      "Shared knowledge and innovative ideas as an open science advocate to drive multilingual AI progress.",
+      "Contributed significantly to multilingual AI research using skills in Machine Learning, Natural Language Processing (NLP), Data Science, and Data Visualization."
+      ],
+      skills: "Machine Learning · Natural Language Processing (NLP) · Data Science · Data Visualization"
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Ivy Contributor",
+      company: "Ivy · Freelance",
+      companylogo: require("./assets/images/ivylogo.png"),
+      date: "Sep 2022 - Jun 2023 (10 mos)",
+      desc: "During my tenure as a Freelance Software Developer from September 2022 to June 2023, I was responsible for crafting and implementing code to enhance Ivy frontend frameworks. My commitment to delivering exceptional customer service played a pivotal role in ensuring high levels of customer satisfaction. To stay at the forefront of the Ivy programming language and its goals, I consistently updated and expanded my knowledge.",
+      descBullets: [
+      "Developed code to implement Ivy frontend frameworks.",
+      "Demonstrated exceptional customer service skills, prioritizing customer satisfaction.",
+      "Maintained a current and comprehensive understanding of the Ivy language and its objectives.",
+      "Proficiency in Software Development, Machine Learning, Artificial Intelligence (AI), Python programming, Jupyter, TensorFlow, Pandas, NumPy, and GitHub allowed me to contribute effectively to various projects and deliver outstanding results."
+      ],
+      skills: "Machine Learning · Artificial Intelligence (AI) · Python (Programming Language) · Jupyter · TensorFlow · Pandas (Software) · Ivy · NumPy · GitHub"
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Data Scientist and Consultant",
+      company: "NDA-Protected · Contract",
+      companylogo: require("./assets/images/NDAlogo.png"),
+      date: "Jul 2021 - Mar 2022 (9 mos)",
+      desc: "Led a diverse team of data scientists, programmers, statisticians, and accountants in delivering actionable insights through standardized and integrated business analytics. Spearheaded the development and implementation of a Natural Language Processing algorithm to predict growth curves and mitigate sector losses. Designed and deployed a real-time anomaly detection system to promptly identify and flag unusual occurrences. Leveraged exploratory data analysis techniques to uncover valuable patterns, relationships, and trends. Evaluated the effectiveness and accuracy of emerging data sources and collection methods. Entrusted with the responsibility of analyzing and interpreting data, as well as managing all shipments, deliveries, and material orders. Produced comprehensive reports, statistical analyses, and visualizations to effectively communicate insights.",
+      descBullets: [
+      "Led a diverse team in delivering actionable insights through integrated business analytics.",
+      "Spearheaded Natural Language Processing algorithm development for growth curve prediction.",
+      "Designed and deployed real-time anomaly detection system for prompt identification of unusual occurrences.",
+      "Utilized exploratory data analysis to uncover valuable patterns and relationships.",
+      "Evaluated emerging data sources and collection methods for effectiveness and accuracy.",
+      "Managed data analysis, interpretation, and logistics.",
+      "Produced comprehensive reports, statistical analyses, and visualizations."
+      ],
+      skills: "Deep Learning · Machine Learning · Natural Language Processing (NLP) · Leadership · Statistical Analysis · Anomaly Detection · Reporting · Communication · Artificial Intelligence (AI) · Python (Programming Language) · Computer Vision · Jupyter · Pandas (Software) · Google Cloud Platform (GCP) · Quantitative Research · Anaconda · SQL · Data Analysis · Data Visualization"
     }
   ]
 };
