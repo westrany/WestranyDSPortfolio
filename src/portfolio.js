@@ -73,8 +73,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "Microsoft Azure Machine Learning",
-      fontAwesomeClassname: "fas fa-microsoft"
+      skillName: "MS Azure",
+      fontAwesomeClassname: "fab fa-microsoft"
     },
     {
       skillName: "Google Cloud Platform",
