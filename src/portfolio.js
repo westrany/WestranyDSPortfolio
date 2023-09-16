@@ -335,7 +335,8 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me 📱"),
   subtitle:
-    "Feel free to reach out for project collaborations or to initiate a conversation"
+    "Feel free to reach out for project collaborations or to initiate a conversation",
+  email_address: "maria.o.fitas@gmail.com"
 };
 
 // Twitter Section
