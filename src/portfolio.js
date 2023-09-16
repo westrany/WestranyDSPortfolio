@@ -78,7 +78,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "GCP",
-      fontAwesomeClassname: "fas fa-cloud"
+      fontAwesomeClassname: "fab fa-google"
     },
     {
       skillName: "NodeJs",
