@@ -190,7 +190,7 @@ const workExperiences = {
       company: "NDA-Protected · Contract",
       companylogo: require("./assets/images/NDAlogo.png"),
       date: "Jul 2021 - Mar 2022 (9 mos)",
-      desc: "Led a diverse team of data scientists, programmers, statisticians, and accountants in delivering actionable insights through standardized and integrated business analytics. Spearheaded the development and implementation of a Natural Language Processing algorithm to predict growth curves and mitigate sector losses. Designed and deployed a real-time anomaly detection system to promptly identify and flag unusual occurrences. Leveraged exploratory data analysis techniques to uncover valuable patterns, relationships, and trends. Evaluated the effectiveness and accuracy of emerging data sources and collection methods. Entrusted with the responsibility of analyzing and interpreting data, as well as managing all shipments, deliveries, and material orders. Produced comprehensive reports, statistical analyses, and visualizations to effectively communicate insights.",
+      desc: "Led a diverse team in delivering insights through integrated analytics. Spearheaded Natural Language Processing for growth prediction, deployed anomaly detection, and leveraged data analysis. Evaluated data sources, managed logistics, and produced comprehensive reports.",
       descBullets: [
       "Led a diverse team in delivering actionable insights through integrated business analytics.",
       "Spearheaded Natural Language Processing algorithm development for growth curve prediction.",
