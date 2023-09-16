@@ -254,7 +254,7 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Certifications 🏆"),
+  title: emoji("Certifications"),
   /* subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",            --> uncomment if wanted  */ 
 
@@ -333,7 +333,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me 📱"),
+  title: emoji("Contact Me"),
   subtitle:
     "Feel free to reach out for project collaborations or to initiate a conversation",
   email_address: "maria.o.fitas@gmail.com"
