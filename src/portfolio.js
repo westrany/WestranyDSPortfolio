@@ -77,7 +77,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-microsoft"
     },
     {
-      skillName: "Google Cloud Platform",
+      skillName: "GCP",
       fontAwesomeClassname: "fas fa-cloud"
     },
     {
