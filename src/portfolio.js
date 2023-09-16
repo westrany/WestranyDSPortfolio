@@ -89,6 +89,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-npm"
     },
     {
+      skillName: "React",            
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
       skillName: "HTML5",
       fontAwesomeClassname: "fab fa-html5"
     },
