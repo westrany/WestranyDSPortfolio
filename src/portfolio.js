@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Maria Fitas",
-  title: "Hi, there! Maria here",
+  title: "Hi, there! I'm Maria",
   subTitle: emoji(
     "Passionate Data Scientist 📊🔍 skilled in analytics, predictive modeling, NLP, and automating data processes. I excel in deciphering complex data, providing strategic insights, and building self-updating models for businesses. 🌟"
   ),
