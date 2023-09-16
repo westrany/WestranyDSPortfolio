@@ -15,9 +15,9 @@ const splashScreen = {
 
 // Summary And Greeting Section
 
-const illustration = {
+/* const illustration = {                  ----> commented out since I didn't want the waving hand
   animated: true // Set to false to use static SVG
-};
+}; */
 
 const greeting = {
   username: "Maria Fitas",
