@@ -160,7 +160,7 @@ const workExperiences = {
   experience: [
     {
       role: "Language Contributor and Data Scientist",
-      company: "Cohere for AI · Freelance",
+      company: "Cohere for AI",
       companylogo: require("./assets/images/AyaLogo.png"),
       date: "Jul 2023 - Present (3 mos)",
       desc: "Enriched the Aya Open Science Initiative as a language expert and native speaker proficient in both Portuguese (PT-PT) and English. Collaborated on a pioneering research project dedicated to propelling multilingual AI advancement through open science collaboration.",
@@ -177,7 +177,7 @@ const workExperiences = {
     },
     {
       role: "Ivy Contributor and Data Scientist",
-      company: "Ivy · Freelance",
+      company: "Ivy",
       companylogo: require("./assets/images/ivylogo.png"),
       date: "Sep 2022 - Jun 2023 (10 mos)",
       desc: "During my tenure as a Freelance Software Developer from September 2022 to June 2023, I was responsible for crafting and implementing code to enhance Ivy frontend frameworks. My commitment to delivering exceptional customer service played a pivotal role in ensuring high levels of customer satisfaction. To stay at the forefront of the Ivy programming language and its goals, I consistently updated and expanded my knowledge.",
@@ -191,7 +191,7 @@ const workExperiences = {
     },
     {
       role: "Data Scientist and Consultant",
-      company: "NDA-Protected · Contract",
+      company: "NDA-Protected",
       companylogo: require("./assets/images/NDAlogo.png"),
       date: "Jul 2021 - Mar 2022 (9 mos)",
       desc: "Led a diverse team in delivering insights through integrated analytics. Spearheaded Natural Language Processing for growth prediction, deployed anomaly detection, and leveraged data analysis. Evaluated data sources, managed logistics, and produced comprehensive reports.",
