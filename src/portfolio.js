@@ -172,11 +172,11 @@ const workExperiences = {
       skills: "Machine Learning · Natural Language Processing (NLP) · Data Science · Data Visualization"
     },
     {
-      role: "Ivy Contributor and Data Scientist",
+      role: "Ivy Contributor and Machine Learning Engineer",
       company: "Ivy",
       companylogo: require("./assets/images/ivylogo.png"),
       date: "Sep 2022 - Jun 2023 (10 mos)",
-      desc: "During my tenure as a Freelance Software Developer from September 2022 to June 2023, I was responsible for crafting and implementing code to enhance Ivy frontend frameworks. My commitment to delivering exceptional customer service played a pivotal role in ensuring high levels of customer satisfaction. To stay at the forefront of the Ivy programming language and its goals, I consistently updated and expanded my knowledge.",
+      desc: "During my tenure as a Freelance Machine Learning Engineer from September 2022 to June 2023, I was responsible for crafting and implementing code to enhance Ivy frontend frameworks. My commitment to delivering exceptional customer service played a pivotal role in ensuring high levels of customer satisfaction. To stay at the forefront of the Ivy programming language and its goals, I consistently updated and expanded my knowledge.",
       descBullets: [
       "Developed code to implement Ivy frontend frameworks.",
       "Demonstrated exceptional customer service skills, prioritizing customer satisfaction.",
