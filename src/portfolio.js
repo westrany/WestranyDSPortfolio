@@ -165,13 +165,9 @@ const workExperiences = {
       date: "Jul 2023 - Present (3 mos)",
       desc: "Enriched the Aya Open Science Initiative as a language expert and native speaker proficient in both Portuguese (PT-PT) and English. Collaborated on a pioneering research project dedicated to propelling multilingual AI advancement through open science collaboration.",
       descBullets: [
-      "Worked closely with the Aya community to collect, curate, and annotate multilingual text examples, thereby bolstering the performance of multilingual AI models.",
-      "Conducted comprehensive assessments and evaluations of NLP models for Portuguese (PT-PT) and English, offering invaluable insights through data visualization to enhance their accuracy and effectiveness.",
-      "Actively engaged in open science dialogues, fostering the exchange of knowledge, innovative ideas, and best practices to accelerate progress in multilingual AI.",
-      "Dived into continuous research and experimentation, exploring novel approaches to advance NLP techniques for both Portuguese (PT-PT) and English.",
-      "Evaluated NLP models for Portuguese (PT-PT) and English, offering insights that improved their accuracy.",
-      "Shared knowledge and innovative ideas as an open science advocate to drive multilingual AI progress.",
-      "Contributed significantly to multilingual AI research using skills in Machine Learning, Natural Language Processing (NLP), Data Science, and Data Visualization."
+      "Collaborated with the Aya community to gather and enhance multilingual text data, improving AI models.",
+      "Conducted thorough assessments for Portuguese and English NLP models, offering insights through data visualization.",
+      "Actively engaged in open science discussions and conducted ongoing research to advance NLP techniques, contributing significantly to multilingual AI research."
       ],
       skills: "Machine Learning · Natural Language Processing (NLP) · Data Science · Data Visualization"
     },
