@@ -26,7 +26,7 @@ const greeting = {
     "Passionate Data Scientist 📊🔍 skilled in analytics, predictive modeling, NLP, and automating data processes. I excel in deciphering complex data, providing strategic insights, and building self-updating models for businesses. 🌟"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1no0TQrIFkKc8nOtjrM56ffLi7ejRXQ9T/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1I6o045ojQD5uZKiM-I4jlCVWeoAheXzw/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
