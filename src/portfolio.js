@@ -81,6 +81,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-google"
     },
     {
+      skillName: "AWS",
+      fontAwesomeClassname: "fab fa-aws"
+    },
+    {
       skillName: "NodeJs",
       fontAwesomeClassname: "fab fa-node"
     },
