@@ -113,6 +113,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     }
   ],
+  itemsperLine: 7,
   display: true // Set false to hide this section, defaults to true
 };
 
