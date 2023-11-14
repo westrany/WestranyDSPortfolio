@@ -23,7 +23,7 @@ const greeting = {
   username: "Maria Fitas",
   title: "Hi, there! I'm Maria",
   subTitle: emoji(
-    "Passionate Data Scientist 📊🔍 skilled in analytics, predictive modeling, NLP, and automating data processes. I excel in deciphering complex data, providing strategic insights, and building self-updating models for businesses. 🌟"
+    "Passionate Data Scientist/Engineer and Machine Learning Engineer, skilled in analytics, predictive modeling, NLP, and automating data processes. I excel in deciphering complex data, providing strategic insights, and building self-updating models for businesses. 🌟"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1I6o045ojQD5uZKiM-I4jlCVWeoAheXzw/view?usp=drive_link", // Set to empty to hide the button
