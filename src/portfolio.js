@@ -86,6 +86,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
+      skillName: "Oracle",
+      fontAwesomeClassname: "fab fa-cloud"
+    },
+    {
       skillName: "NodeJs",
       fontAwesomeClassname: "fab fa-node"
     },
