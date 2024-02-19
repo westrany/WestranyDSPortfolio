@@ -36,6 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/westrany",
   linkedin: "https://www.linkedin.com/in/mofitas/",
   gmail: "maria.o.fitas@gmail.com",
+  kaggle: "https://www.kaggle.com/mariafitas"
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
