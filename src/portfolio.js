@@ -171,7 +171,7 @@ const workExperiences = {
       role: "Language Contributor and Data Scientist",
       company: "Cohere for AI",
       companylogo: require("./assets/images/AyaLogo.png"),
-      date: "Jul 2023 - present",
+      date: "Jul 2023 - Mar 2024 (9 mos)",
       desc: "Enriched the Aya Open Science Initiative as a language expert and native speaker proficient in both Portuguese (PT-PT) and English. Collaborated on a pioneering research project dedicated to propelling multilingual AI advancement through open science collaboration.",
       descBullets: [
       "Collaborated with the Aya community to gather and enhance multilingual text data, improving AI models.",
@@ -198,7 +198,7 @@ const workExperiences = {
       role: "Data Scientist and Consultant",
       company: "NDA-Protected",
       companylogo: require("./assets/images/NDAlogo.png"),
-      date: "Jul 2021 - Mar 2022 (9 mos)",
+      date: "Jul 2021 - Aug 2022 (1 yr 2 mos)",
       desc: "Led a diverse team in delivering insights through integrated analytics. Spearheaded Natural Language Processing for growth prediction, deployed anomaly detection, and leveraged data analysis. Evaluated data sources, managed logistics, and produced comprehensive reports.",
       descBullets: [
       "Led a diverse team in delivering actionable insights through integrated business analytics.",
