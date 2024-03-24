@@ -42,7 +42,7 @@ export default function WorkExperience() {
       <div id="experience">
         <Fade bottom duration={1000} distance="10px">
           <div className="experience-container" id="workExperience">
-            <h1 className="experience-heading">Experiences</h1> {/* Heading */}
+            <h1 className="experience-heading" style={{ marginBottom: '10px'}}>Experiences</h1> {/* Heading */}
           </div>
         </Fade>
         <div className="experience-container" id="workExperience">
