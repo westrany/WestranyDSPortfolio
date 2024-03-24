@@ -148,15 +148,15 @@ const techStack = {
   experience: [
     {
       Stack: "Data Science and Machine Learning", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "100%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Natural Language Processing (NLP) and AI",
-      progressPercentage: "70%"
+      progressPercentage: "90%"
     },
     {
       Stack: "Software Development and Technology Tools",
-      progressPercentage: "60%"
+      progressPercentage: "70%"
     }
   ],
   displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
