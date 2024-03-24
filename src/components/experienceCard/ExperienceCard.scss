@@ -10,7 +10,7 @@
 
 .experience-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Adjust #px to preferred card width */
+  grid-template-columns: repeat(auto-fill, minmax(1000px, 1fr)); /* Adjust #px to preferred card width */
   grid-gap: 20px; /* Adjust gap between cards */
 }
 
