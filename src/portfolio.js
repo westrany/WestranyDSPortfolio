@@ -212,21 +212,18 @@ const workExperiences = {
       skills: "Deep Learning · Machine Learning · Natural Language Processing (NLP) · Leadership · Statistical Analysis · Anomaly Detection · Reporting · Communication · Artificial Intelligence (AI) · Python (Programming Language) · Computer Vision · Jupyter · Pandas (Software) · Google Cloud Platform (GCP) · Quantitative Research · Anaconda · SQL · Data Analysis · Data Visualization"
     },
     {
-      role: "Data Scientist and Consultant",
-      company: "NDA-Protected",
-      companylogo: require("./assets/images/NDAlogo.png"),
-      date: "Jul 2021 - Aug 2022 (1 yr 2 mos)",
-      desc: "Led a diverse team in delivering insights through integrated analytics. Spearheaded Natural Language Processing for growth prediction, deployed anomaly detection, and leveraged data analysis. Evaluated data sources, managed logistics, and produced comprehensive reports.",
+      role: "Data Scientist Freelancer",
+      company: "The Hackathon Company",
+      companylogo: require("./assets/images/hackathoncompanylogo.png"),
+      date: "Jun 2021 - Jun 2021 (1 mos)",
+      desc: "Developed cutting-edge system for analyzing customer feedback, leveraging Microsoft Azure AI for insights. Provided end-to-end project oversight, prioritizing customer satisfaction through clear communication and innovative problem-solving.",
       descBullets: [
-      "Led a diverse team in delivering actionable insights through integrated business analytics.",
-      "Spearheaded Natural Language Processing algorithm development for growth curve prediction.",
-      "Designed and deployed real-time anomaly detection system for prompt identification of unusual occurrences.",
-      "Utilized exploratory data analysis to uncover valuable patterns and relationships.",
-      "Evaluated emerging data sources and collection methods for effectiveness and accuracy.",
-      "Managed data analysis, interpretation, and logistics.",
-      "Produced comprehensive reports, statistical analyses, and visualizations."
+      "Conceptualized and developed a cutting-edge system for scanning and analysing customer feedback, enhancing business intelligence capabilities.",
+      "Leveraged Microsoft Azure AI for sentiment analysis, identifying actionable insights to improve business performance.",
+      "Provided end-to-end oversight for project development, ensuring the delivery of robust design solutions.",
+      "Prioritized exceptional customer satisfaction through clear communication and innovative problem-solving approaches."
       ],
-      skills: "Deep Learning · Machine Learning · Natural Language Processing (NLP) · Leadership · Statistical Analysis · Anomaly Detection · Reporting · Communication · Artificial Intelligence (AI) · Python (Programming Language) · Computer Vision · Jupyter · Pandas (Software) · Google Cloud Platform (GCP) · Quantitative Research · Anaconda · SQL · Data Analysis · Data Visualization"
+      skills: "SQL · Jupyter · Anaconda · Data Visualization · Microsoft Azure Machine Learning · Business Strategy"
     }
   ]
 };
