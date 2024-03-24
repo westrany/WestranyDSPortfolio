@@ -10,24 +10,26 @@ export default function WorkExperience() {
 
   if (workExperiences.display) {
     const renderExperienceRows = () => {
+      const cards = workExperiences.experience.map((card, index) => (
+        <ExperienceCard
+          key={index}
+          isDark={isDark}
+          cardInfo={{
+            company: card.company,
+            desc: card.desc,
+            date: card.date,
+            companylogo: card.companylogo,
+            role: card.role,
+            descBullets: card.descBullets
+          }}
+        />
+      ));
+
       const rows = [];
-      for (let i = 0; i < workExperiences.experience.length; i += 3) {
+      for (let i = 0; i < cards.length; i += 3) {
         rows.push(
           <div className="experience-row" key={i}>
-            {workExperiences.experience.slice(i, i + 3).map((card, index) => (
-              <ExperienceCard
-                key={index}
-                isDark={isDark}
-                cardInfo={{
-                  company: card.company,
-                  desc: card.desc,
-                  date: card.date,
-                  companylogo: card.companylogo,
-                  role: card.role,
-                  descBullets: card.descBullets
-                }}
-              />
-            ))}
+            {cards.slice(i, i + 3)}
           </div>
         );
       }
