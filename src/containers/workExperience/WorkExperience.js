@@ -7,18 +7,16 @@ import StyleContext from "../../contexts/StyleContext";
 
 export default function WorkExperience() {
   const {isDark} = useContext(StyleContext);
+
   if (workExperiences.display) {
-    return (
-      <div id="experience">
-        <Fade bottom duration={1000} distance="20px">
-          <div className="experience-container" id="workExperience">
-            <div>
-              <h1 className="experience-heading">Experiences</h1>
-              <div className="experience-cards-div">
-                {workExperiences.experience.map((card, i) => {
-                  return (
-                    <ExperienceCard
-                      key={i}
+    const renderExperienceRows = () => {
+      const rows = [];
+      for (let i = 0; i < workExperiences.experience.length; i += 3) {
+        rows.push(
+          <div className="experience-row" key={i}>
+            {workExperiences.experience.slice(i, i + 3).map((card, index) => (
+              <ExperienceCard
+                      key={index}
                       isDark={isDark}
                       cardInfo={{
                         company: card.company,
@@ -29,10 +27,19 @@ export default function WorkExperience() {
                         descBullets: card.descBullets
                       }}
                     />
-                  );
-                })}
-              </div>
+                  ))}
             </div>
+        );
+      }
+      return rows;
+    };
+
+    return (
+      <div id="experience">
+        <Fade bottom duration={1000} distance="20px">
+          <div className="experience-container" id="workExperiences">
+            <h1 className="experience-heading">Experiences</h1>
+            {renderExperienceRows()}  
           </div>
         </Fade>
       </div>
