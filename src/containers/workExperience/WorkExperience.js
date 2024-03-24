@@ -37,9 +37,9 @@ export default function WorkExperience() {
     return (
       <div id="experience">
         <Fade bottom duration={1000} distance="20px">
-          <div className="experience-container" id="workExperiences">
-            <h1 className="experience-heading">Experiences</h1>
-            {renderExperienceRows()}  
+          <div className="experience-container" id="workExperience">
+            <h1 className="experience-heading">Experiences</h1> {/* Heading */}
+            {renderExperienceRows()} {/* Rows of experience cards */}
           </div>
         </Fade>
       </div>
