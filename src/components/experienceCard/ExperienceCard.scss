@@ -8,12 +8,6 @@
   border: 1px solid $lightBorder1;
 }
 
-.experience-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Adjust #px to preferred card width */
-  grid-gap: 20px; /* Adjust gap between cards */
-}
-
 .experience-card-dark {
   position: relative;
   background-color: $darkBackground;
