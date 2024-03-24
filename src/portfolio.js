@@ -210,6 +210,23 @@ const workExperiences = {
       "Produced comprehensive reports, statistical analyses, and visualizations."
       ],
       skills: "Deep Learning · Machine Learning · Natural Language Processing (NLP) · Leadership · Statistical Analysis · Anomaly Detection · Reporting · Communication · Artificial Intelligence (AI) · Python (Programming Language) · Computer Vision · Jupyter · Pandas (Software) · Google Cloud Platform (GCP) · Quantitative Research · Anaconda · SQL · Data Analysis · Data Visualization"
+    },
+    {
+      role: "Data Scientist and Consultant",
+      company: "NDA-Protected",
+      companylogo: require("./assets/images/NDAlogo.png"),
+      date: "Jul 2021 - Aug 2022 (1 yr 2 mos)",
+      desc: "Led a diverse team in delivering insights through integrated analytics. Spearheaded Natural Language Processing for growth prediction, deployed anomaly detection, and leveraged data analysis. Evaluated data sources, managed logistics, and produced comprehensive reports.",
+      descBullets: [
+      "Led a diverse team in delivering actionable insights through integrated business analytics.",
+      "Spearheaded Natural Language Processing algorithm development for growth curve prediction.",
+      "Designed and deployed real-time anomaly detection system for prompt identification of unusual occurrences.",
+      "Utilized exploratory data analysis to uncover valuable patterns and relationships.",
+      "Evaluated emerging data sources and collection methods for effectiveness and accuracy.",
+      "Managed data analysis, interpretation, and logistics.",
+      "Produced comprehensive reports, statistical analyses, and visualizations."
+      ],
+      skills: "Deep Learning · Machine Learning · Natural Language Processing (NLP) · Leadership · Statistical Analysis · Anomaly Detection · Reporting · Communication · Artificial Intelligence (AI) · Python (Programming Language) · Computer Vision · Jupyter · Pandas (Software) · Google Cloud Platform (GCP) · Quantitative Research · Anaconda · SQL · Data Analysis · Data Visualization"
     }
   ]
 };
