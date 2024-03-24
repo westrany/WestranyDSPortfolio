@@ -25,15 +25,17 @@ export default function WorkExperience() {
         />
       ));
 
-      const rows = [];
-      for (let i = 0; i < cards.length; i += 3) {
-        rows.push(
-          <div className="experience-row" key={i}>
-            {cards.slice(i, i + 3)}
-          </div>
-        );
+      const columns = [[], [], []];
+      for (let i = 0; i < cards.length; i++) {
+        const columnIdx = i % 3;
+        columns[columnIdx].push(cards[i]);
       }
-      return rows;
+
+      return columns.map((column, index) => (
+        <div className="experience-column" key={index}>
+          {column}
+        </div>
+      ));
     };
 
     return (
