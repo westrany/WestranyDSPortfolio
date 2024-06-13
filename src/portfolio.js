@@ -212,20 +212,6 @@ const workExperiences = {
       ],
       skills: "Deep Learning · Machine Learning · Natural Language Processing (NLP) · Leadership · Statistical Analysis · Anomaly Detection · Reporting · Communication · Artificial Intelligence (AI) · Python (Programming Language) · Computer Vision · Jupyter · Pandas (Software) · Google Cloud Platform (GCP) · Quantitative Research · Anaconda · SQL · Data Analysis · Data Visualization"
     },
-    {
-      role: "Data Scientist Freelancer",
-      company: "The Hackathon Company",
-      companylogo: require("./assets/images/hackathoncompanylogo.png"),
-      date: "Jun 2021 - Jun 2021 (1 mos)",
-      desc: "Developed cutting-edge system for analyzing customer feedback, leveraging Microsoft Azure AI for insights. Provided end-to-end project oversight, prioritizing customer satisfaction through clear communication and innovative problem-solving.",
-      descBullets: [
-      "Conceptualized and developed a cutting-edge system for scanning and analysing customer feedback, enhancing business intelligence capabilities.",
-      "Leveraged Microsoft Azure AI for sentiment analysis, identifying actionable insights to improve business performance.",
-      "Provided end-to-end oversight for project development, ensuring the delivery of robust design solutions.",
-      "Prioritized exceptional customer satisfaction through clear communication and innovative problem-solving approaches."
-      ],
-      skills: "SQL · Jupyter · Anaconda · Data Visualization · Microsoft Azure Machine Learning · Business Strategy"
-    }
   ]
 };
 
