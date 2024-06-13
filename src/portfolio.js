@@ -176,7 +176,8 @@ const workExperiences = {
       descBullets: [
       "Collaborated with the Aya community to gather and enhance multilingual text data, improving AI models.",
       "Conducted thorough assessments for Portuguese and English NLP models, offering insights through data visualization.",
-      "Actively engaged in open science discussions and conducted ongoing research to advance NLP techniques, contributing significantly to multilingual AI research."
+      "Actively engaged in open science discussions and conducted ongoing research to advance NLP techniques, contributing significantly to multilingual AI research.",
+      "Implemented reinforcement learning techniques, utilizing Q-Learning and REINFORCE algorithms to optimize decision-making processes in AI models."
       ],
       skills: "Machine Learning · Natural Language Processing (NLP) · Data Science · Data Visualization"
     },
