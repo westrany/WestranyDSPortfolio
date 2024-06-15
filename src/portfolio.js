@@ -241,6 +241,17 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
+    {
+      image: require("./assets/images/tree_class.png"), 
+      projectName: "Tree Species Classification with Deep Learning",
+      projectDesc: "A Contextual Image Classification Project that uses Deep Learning to train a Classification model to recognize and correctly classify trees in an urban context.",
+      footerLink: [
+        {
+          name: "Code and documentation on Github",
+          url: "https://github.com/westrany/Tree-Species-Classification-with-Deep-Learning/tree/main"
+        }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
