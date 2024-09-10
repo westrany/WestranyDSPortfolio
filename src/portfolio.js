@@ -23,7 +23,7 @@ const greeting = {
   username: "Maria Fitas",
   title: "Hi, there! I'm Maria",
   subTitle: emoji(
-    "Passionate Data Scientist/Engineer and Machine Learning Engineer, skilled in analytics, predictive modeling, NLP, and automating data processes. I excel in deciphering complex data, providing strategic insights, and building self-updating models for businesses. 🌟"
+    "Passionate Data Scientist & AI Specialist skilled in analytics, predictive modeling, NLP, LLMs and automating data processes. I excel in deciphering complex data, providing strategic insights, and building self-updating models for businesses. 🌟"
   ),
   resumeLink:
     "https://drive.google.com/file/d/10s02P1NzyqBbAKOy8ADyxqAeyzq1r3xb/view?usp=sharing", // Set to empty to hide the button
@@ -226,7 +226,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Personal Projects",
+  title: "Projects",
   subtitle: "Machine Learning and Data Science projects demonstrating practical solutions in predictive modeling, natural language processing, and computer vision.",
   projects: [
     {
@@ -341,7 +341,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me"),
   subtitle:
-    "Feel free to reach out for project collaborations or to initiate a conversation",
+    "Feel free to reach out to discuss positions or to start a conversation",
   email_address: "maria.o.fitas@gmail.com"
 };
 
