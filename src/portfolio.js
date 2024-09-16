@@ -341,7 +341,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me"),
   subtitle:
-    "Feel free to reach out to discuss positions or to start a conversation",
+    "I'm available to discuss potential opportunities or simply to connect. Feel free to reach out!",
   email_address: "maria.o.fitas@gmail.com"
 };
 
